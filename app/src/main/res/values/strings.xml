@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">taller1_Promedio</string>
+    <string name="title">Promedio Notas</string>
+    <string name="note1">Digita la primera nota</string>
+    <string name="note2">Digita la segunda nota</string>
+    <string name="note3">Digita la tercera nota</string>
+    <string name="note4">Digita la cuarta nota</string>
+    <string name="result">resultado</string>
+    <string name="button">Calcular</string>
+</resources>
